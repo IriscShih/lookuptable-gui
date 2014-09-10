@@ -9,8 +9,3 @@ To model the gamma cameras acquisition characteristics, a big amount of measurem
 
 More specifically, a Matlab based graphical user interface should be developed to load, process, analyze and visualize lookup table datasets. Parameters like the homogeneity, ellipsoidal shape of single pixels at different distances and sparseness should be obtained and conclusions regarding lookup table acquisition and its usage should be derived.
 
-###3D Lookuptable
-###Gamma Camera Modeling
-###Experiment Result 
-###Evaluation 
-###Conclusion 
