@@ -1,7 +1,7 @@
 Development of a Matlab analyzation toolkit for 3D lookup tables
 ----------------
 
-###Abstract
+### Abstract
 Gamma cameras are frequently used nowadays in nuclear functional imaging procedures in cancer diagnostics and interventions. 
 In order to be able to obtain 3D reconstructed images of a radioactive distribution using mini gamma cameras, tracking and modeling of these devices is needed. Tracking is currently performed optically, but for robotic SPECT acquisitions mechanical tracking will be used due to its higher accuracy.
 
